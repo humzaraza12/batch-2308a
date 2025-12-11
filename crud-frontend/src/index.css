@@ -1,0 +1,28 @@
+
+
+.box{
+  border-bottom: 1px solid black;
+  width: 90%;
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+
+.dltBTN{
+  height: 30px;
+  background-color: red;
+  color: white;
+  border: none;
+  width: 60px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.uptdBtn{
+  height: 30px;
+  background-color: green;
+  color: white;
+  border: none;
+  width: 60px;
+  border-radius: 10px;
+  cursor: pointer;
+}
